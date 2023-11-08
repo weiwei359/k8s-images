@@ -1,2 +1,2 @@
-FROM quay.io/cephcsi/cephcsi:v3.8.0
+FROM quay.io/cephcsi/cephcsi:v3.7.2
 MAINTAINER weiwei
